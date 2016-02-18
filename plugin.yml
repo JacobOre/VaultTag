@@ -2,4 +2,3 @@ main: me.confuser.vaulttag.VaultTag
 name: VaultTag
 version: 1.0.0
 author: confuserr
-depend: [Vault, iTag]
